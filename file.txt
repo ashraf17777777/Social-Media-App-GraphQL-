@@ -1,0 +1,9 @@
+///////////////////diskstorage ///////////////////////////////
+
+function ===> const x = diskstorage({destination:,filename:,})
+
+
+diskstorage({destination:,filename})
+
+multer({strage:diskstorage})
+
